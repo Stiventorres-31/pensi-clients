@@ -29,7 +29,7 @@ const Footer = () => {
               <li>
                 <a href="https://wa.link/abp000" className="contact-link" target='_blank' rel="noopener noreferrer">
                   <ion-icon name="call-outline"></ion-icon>
-                  <span>(+57) 324 3399662</span>
+                  <span>(+57) 311 3109165</span>
                 </a>
               </li>
               <li>
@@ -42,22 +42,22 @@ const Footer = () => {
 
             <ul className="header-top-social-list">
               <li>
-                <a href="https://www.facebook.com/profile.php?id=61557942225124&mibextid=LQQJ4d" target='_blank' rel="noopener noreferrer" className="social-link">
+                <a href="https://www.facebook.com/share/1XEEf3cT8M/?mibextid=wwXIfr" target='_blank' rel="noopener noreferrer" className="social-link">
                   <ion-icon name="logo-facebook"></ion-icon>
                 </a>
               </li>
               <li>
-                <a href="/"  className="social-link" rel="noopener noreferrer">
+                {/*<a href="/"  className="social-link" rel="noopener noreferrer">
                   <ion-icon name="logo-twitter"></ion-icon>
-                </a>
+                </a>*/}
               </li>
               <li>
-                <a href="https://www.instagram.com/pensicolombia?igsh=dDB3dXllZTlzaG5s" target='_blank' rel="noopener noreferrer" className="social-link">
+                <a href="https://www.instagram.com/pensicolombia?igsh=eGFtNW5mMnM2dXU3" target='_blank' rel="noopener noreferrer" className="social-link">
                   <ion-icon name="logo-instagram"></ion-icon>
                 </a>
               </li>
               <li>
-                <a href="https://www.tiktok.com/@pensicolombia?_t=8lfCanCqcxa&_r=1" target='_blank' rel="noopener noreferrer" className="social-link">
+                <a href="https://www.tiktok.com/@pensicolombia?_t=ZS-8uV0fNiW0nK&_r=1" target='_blank' rel="noopener noreferrer" className="social-link">
                   <ion-icon name="logo-tiktok"></ion-icon>
                 </a>
               </li>
@@ -85,7 +85,7 @@ const Footer = () => {
                 <p className="footer-list-title">Servicios</p>
               </li>
               <li>
-                <a href="#consigue-tu-pen" className="footer-link">Conseigue tu pen</a>
+                <a href="#consigue-tu-pen" className="footer-link">Consigue tu pen</a>
               </li>
               <li>
                 <a href="#publica-tu-pen" className="footer-link">Publica tu pen</a>
@@ -107,7 +107,7 @@ const Footer = () => {
                 <a href="#" className="footer-link">Lista de deseos</a>
               </li>
               <li>
-                <a href="#" className="footer-link">Terminos & condiciones</a>
+                <a href="#" className="footer-link">Terminos & Condiciones</a>
               </li>
             </ul>
 

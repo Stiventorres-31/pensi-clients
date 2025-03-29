@@ -188,7 +188,7 @@ const Landing = () => {
                   <img src={serviceImage_a} alt="Service icon" />
                 </div>
                 <h3 className="h3 card-title">
-                  <a href="#">Consigue tu pen</a>
+                  <a href="#property">Consigue tu pen</a>
                 </h3>
                 <p className="card-text">
                   El momento que soñaste ha llegado. Encuentra el lugar perfecto
@@ -196,10 +196,10 @@ const Landing = () => {
                   convierte en un recuerdo invaluable. ¡Consigue tu pen y
                   empieza a escribir tu propia historia!
                 </p>
-                {/* <a href="#" className="card-link">
+                 <a href="#property" className="card-link">
                   <span>Encuentra una casa</span>
                   <ion-icon name="arrow-forward-outline"></ion-icon>
-                </a> */}
+                </a>
               </div>
             </li>
             {/* <li>
@@ -226,7 +226,7 @@ const Landing = () => {
                   <img src={serviceImage_c} alt="Service icon" />
                 </div>
                 <h3 className="h3 card-title">
-                  <a href="#">Publica tu pen</a>
+                  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAYAAFrxoTZUMjZVWUhFQVhGVjRWUk5CMVY5M0cyS0JXNS4u">Publica tu pen</a>
                 </h3>
                 <p className="card-text">
                   Convierte tu espacio en el lugar ideal para vivir momentos
@@ -235,10 +235,10 @@ const Landing = () => {
                   próxima gran experiencia. ¡Tu locación, su próximo gran
                   recuerdo!
                 </p>
-                {/* <a href="#" className="card-link">
+                 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAYAAFrxoTZUMjZVWUhFQVhGVjRWUk5CMVY5M0cyS0JXNS4u" className="card-link">
                   <span>Contáctanos</span>
                   <ion-icon name="arrow-forward-outline"></ion-icon>
-                </a> */}
+                </a>
               </div>
             </li>
           </ul>
@@ -463,7 +463,7 @@ const Landing = () => {
         <div className="container">
           <div className="cta-card">
             <div className="card-content">
-              <h2 className="h2 card-title">Busca el pen de tus sueños?</h2>
+              <h2 className="h2 card-title">Busca el pen de tus sueños</h2>
 
               <p className="card-text">
                 Podemos ayudarle a hacer realidad su sueño de un nuevo hogar.

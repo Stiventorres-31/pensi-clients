@@ -76,7 +76,7 @@ const Header = () => {
                             <a href="mailto:info@Inmueblespensi.com" className="header-top-link" target='_blank' rel="noopener noreferrer">
                                 <ion-icon name="mail-outline"></ion-icon>
 
-                                <span>info@Inmueblespensi.com</span>
+                                <span>PensiColombia@hotmail.com</span>
                             </a>
                         </li>
 
@@ -94,26 +94,26 @@ const Header = () => {
                         <ul className="header-top-social-list">
 
                             <li>
-                                <a href="https://www.facebook.com/profile.php?id=61557942225124&mibextid=LQQJ4d"
+                                <a href="https://www.facebook.com/share/1XEEf3cT8M/?mibextid=wwXIfr"
                                     className="header-top-social-link" target="_blank" rel="noopener noreferrer">
                                     <ion-icon name="logo-facebook"></ion-icon>
                                 </a>
                             </li>
 
                             <li>
-                                <a href="#" className="header-top-social-link" target="_blank" rel="noopener noreferrer">
+                                {/*<a href="#" className="header-top-social-link" target="_blank" rel="noopener noreferrer">
                                     <ion-icon name="logo-twitter"></ion-icon>
-                                </a>
+                                </a>*/}
                             </li>
 
                             <li>
-                                <a href="https://www.instagram.com/pensicolombia?igsh=dDB3dXllZTlzaG5s" className="header-top-social-link" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.instagram.com/pensicolombia?igsh=eGFtNW5mMnM2dXU3" className="header-top-social-link" target="_blank" rel="noopener noreferrer">
                                     <ion-icon name="logo-instagram"></ion-icon>
                                 </a>
                             </li>
 
                             <li>
-                                <a href="https://www.tiktok.com/@pensicolombia?_t=8lfCanCqcxa&_r=1" className="header-top-social-link" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tiktok.com/@pensicolombia?_t=ZS-8uV0fNiW0nK&_r=1" className="header-top-social-link" target="_blank" rel="noopener noreferrer">
                                     <ion-icon name="logo-tiktok"></ion-icon>
                                 </a>
                             </li>
